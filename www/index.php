@@ -48,7 +48,7 @@
         </div>
     </div>
 
-    <script src="//<?php echo $enConfigClient['environment']['site_portal']; ?>/lib/js/engage.php?client_name=grandtraverse&client_id=079e124ac6be5b2058948506f20af0f7" type="text/javascript"></script>
+    <script src="//<?php echo $enConfigClient['environment']['site_portal']; ?>/lib/js/engage.php?client_name=grandtraverse&client_id=6f23528e4a127a4e83ea1f581c34009fm" type="text/javascript"></script>
 
     <div id="en-footer-layout-container"></div>
 
